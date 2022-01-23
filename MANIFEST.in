@@ -1,0 +1,4 @@
+include LICENSE
+include README.md
+include hlpl_arabic_words/setup.cfg
+include hlpl_arabic_words/hlpl_arabic_words.db

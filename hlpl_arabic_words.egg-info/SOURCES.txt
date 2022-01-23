@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+hlpl_arabic_words/__init__.py
+hlpl_arabic_words/__main__.py
+hlpl_arabic_words/arabic_words.py
+hlpl_arabic_words/hlpl_arabic_words.db
+hlpl_arabic_words/setup.cfg
+hlpl_arabic_words.egg-info/PKG-INFO
+hlpl_arabic_words.egg-info/SOURCES.txt
+hlpl_arabic_words.egg-info/dependency_links.txt
+hlpl_arabic_words.egg-info/entry_points.txt
+hlpl_arabic_words.egg-info/top_level.txt

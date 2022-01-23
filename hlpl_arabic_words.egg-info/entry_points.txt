@@ -1,0 +1,3 @@
+[console_scripts]
+hlpl_arabic_words = hlpl_arabic_words.__main__:main
+
