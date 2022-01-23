@@ -3,15 +3,15 @@
 
 hlpl_arabic_words lists nouns, verbs, articles, nouns prefix, nouns suffix, verbs prefix, and verbs suffix in a readable database file. The package contains:  
 
-> **إسم-الفاعل:**  List of all "أسماء-الأفعال" 
-> **إسم-المفعول:**  List of all "أسماء-المفعول"   
-> **المصدر:**  List of all "المصادر" 
-> **الفعل:**  List of all "الأفعال" 
-> **الأداة:**  List of all "الأدوات" 
-> **نهاية-اسم**  List of all "حروف-تلحق-الاسماء"  
-> **بداية-اسم:**  List of all "حروف-تسبق-الاسماء"  
-> **نهاية-فعل:**  List of all "حروف-تلحق-الافعال"  
-> **بداية-فعل:**  List of all "حروف-تسبق-الاسماء" 
+> **active participle:**  List of all "أسماء-الأفعال" 
+> **passive participle:**  List of all "أسماء-المفعول"   
+> **masdar:**  List of all "المصادر" 
+> **verb:**  List of all "الأفعال" 
+> **article:**  List of all "الأدوات" 
+> **soun-suffix**  List of all "حروف-تلحق-الاسماء"  
+> **noun-prefix:**  List of all "حروف-تسبق-الاسماء"  
+> **verb-suffix:**  List of all "حروف-تلحق-الافعال"  
+> **verb-prefix:**  List of all "حروف-تسبق-الاسماء" 
 
 
 ## Basic Usage: 
